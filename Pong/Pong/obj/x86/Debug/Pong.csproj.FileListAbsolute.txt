@@ -1,0 +1,20 @@
+c:\users\fmccown\documents\visual studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+c:\users\fmccown\documents\visual studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+c:\users\fmccown\documents\visual studio 2010\Projects\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\fmccown\documents\visual studio 2010\Projects\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\fmccown\documents\visual studio 2010\Projects\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+c:\users\fmccown\documents\visual studio 2010\Projects\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+c:\users\fmccown\documents\visual studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\basketball.xnb
+c:\users\fmccown\documents\visual studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\hand.xnb
+c:\users\fmccown\documents\visual studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\crash.xnb
+c:\users\fmccown\documents\visual studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\swish.xnb
+C:\Users\Emily\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\basketball.xnb
+C:\Users\Emily\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\hand.xnb
+C:\Users\Emily\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\crash.xnb
+C:\Users\Emily\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\swish.xnb
+C:\Users\Emily\Desktop\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+C:\Users\Emily\Desktop\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+C:\Users\Emily\Desktop\Pong\Pong\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Desktop\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Emily\Desktop\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Users\Emily\Desktop\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
