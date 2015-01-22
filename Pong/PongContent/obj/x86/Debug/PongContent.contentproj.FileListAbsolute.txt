@@ -1,2 +1,3 @@
 c:\users\fmccown\documents\visual studio 2010\Projects\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Emily\Desktop\Pong\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
+C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache

@@ -18,3 +18,13 @@ C:\Users\Emily\Desktop\Pong\Pong\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyRe
 C:\Users\Emily\Desktop\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Emily\Desktop\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
 C:\Users\Emily\Desktop\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\bin\x86\Debug\Content\Images\basketball.xnb
+C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\bin\x86\Debug\Content\Images\hand.xnb
+C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\bin\x86\Debug\Content\Audio\crash.xnb
+C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\bin\x86\Debug\Content\Audio\swish.xnb
+C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
