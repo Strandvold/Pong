@@ -47,7 +47,7 @@ namespace Pong
             // Move paddle, but don't allow movement off the screen
             Ball ball = Game.Components[0] as Ball;
 
-            if (ball.Y < Y && ball.Y > Y + Height)
+            if (ball.Y + ball.Height > Y && ball.Y + ball.Height < Y + Height)
             {
                 //do nothing;
             }
