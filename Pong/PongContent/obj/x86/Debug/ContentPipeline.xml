@@ -37,6 +37,15 @@
       <Output>C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\bin\x86\Debug\Content\Audio\swish.xnb</Output>
       <Time>2015-01-22T17:34:05.5515744-06:00</Time>
     </Item>
+    <Item>
+      <Source>Images\opponentHand.png</Source>
+      <Name>Images\opponentHand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\bin\x86\Debug\Content\Images\opponentHand.xnb</Output>
+      <Time>2015-01-22T18:08:15.5298786-06:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

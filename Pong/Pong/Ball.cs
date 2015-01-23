@@ -26,8 +26,8 @@ namespace Pong
         private const float DEFAULT_Y_SPEED = 150;
 
         // Initial location of the ball
-        private const float INIT_X_POS = 80;
-        private const float INIT_Y_POS = 0;
+        private const float INIT_X_POS = 350;
+        private const float INIT_Y_POS = 200;
 
         // Increase in speed each hit
         private const float INCREASE_SPEED = 50;
@@ -119,19 +119,22 @@ namespace Pong
         /// </summary>
         public void Reset()
         {
-            ballSpeed.X = DEFAULT_X_SPEED;
-            ballSpeed.Y = DEFAULT_Y_SPEED;
+            Random random = new Random();
+            int randomNumber = random.Next(0, 2);
 
-            ballPosition.Y = 0;
-
-            // Make sure ball is not positioned off the screen
-            if (ballPosition.X < 0)
-                ballPosition.X = 0;
-            else if (ballPosition.X + ballSprite.Width > GraphicsDevice.Viewport.Width)
+            if(randomNumber == 0)
             {
-                ballPosition.X = GraphicsDevice.Viewport.Width - ballSprite.Width;
-                ballSpeed.Y *= -1;
+                ballSpeed.X = DEFAULT_X_SPEED;
+                ballSpeed.Y = DEFAULT_Y_SPEED;
             }
+            else
+            {
+                ballSpeed.X = DEFAULT_X_SPEED * -1;
+                ballSpeed.Y = DEFAULT_Y_SPEED * -1;
+            }
+            ballPosition.Y = GraphicsDevice.Viewport.Height / 2 - Height/2;
+            ballPosition.X = GraphicsDevice.Viewport.Width / 2 - Width/2; 
+
         }
 
         /// <summary>
@@ -174,6 +177,20 @@ namespace Pong
         {
             ballPosition.X = INIT_X_POS;
             ballPosition.Y = INIT_Y_POS;
+
+            Random random = new Random();
+            int randomNumber = random.Next(0, 2);
+
+            if (randomNumber == 0)
+            {
+                ballSpeed.X = DEFAULT_X_SPEED;
+                ballSpeed.Y = DEFAULT_Y_SPEED;
+            }
+            else
+            {
+                ballSpeed.X = DEFAULT_X_SPEED * -1;
+                ballSpeed.Y = DEFAULT_Y_SPEED * -1;
+            }
 
             base.Initialize();
         }

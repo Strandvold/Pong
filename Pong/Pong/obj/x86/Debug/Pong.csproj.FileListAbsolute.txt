@@ -28,3 +28,4 @@ C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\obj\x86\Debug\Pong.cspr
 C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
 C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\Emily\Desktop\Game Design\GitHub\Pong\Pong\Pong\bin\x86\Debug\Content\Images\opponentHand.xnb
